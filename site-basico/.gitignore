@@ -1,0 +1,5 @@
+~.*
+venv/
+projetoaula01_03.zip
+.idea
+db.sqlite3
